@@ -1,5 +1,5 @@
 # To Install
 
 ```
-git clone github.com/suremeo/neovim-config ~/.config/nvim
+git clone https://github.com/suremeo/neovim-config.git ~/.config/nvim
 ```
